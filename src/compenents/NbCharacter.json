@@ -1,3 +1,0 @@
-import data from "./characters.json"
-const characters = require('./characters.json');
-

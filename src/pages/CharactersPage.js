@@ -1,6 +1,6 @@
 import React from 'react';
-import { CharactersList } from "../components/CharactersList";
-import { NumberOfCharacters } from "../components/NumberOfCharacters";
+import { CharactersList } from '../compenents/CharactersList';
+import { NumberOfCharacters } from '../compenents/NumberOfCharacters';
 
 const characters = require('../data/characters.json');
 

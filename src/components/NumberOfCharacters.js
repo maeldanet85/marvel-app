@@ -1,4 +1,3 @@
-import data from "../data/characters.json"
 const characters = require('../data/characters.json');
 
 function NumberOfCharacters(){

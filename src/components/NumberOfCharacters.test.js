@@ -1,5 +1,5 @@
 import { render } from '@testing-library/react';
-import { NumberOfCharacters } from './NumberOfCharacters';
+import { NumberOfCharacters } from '../compenents/NumberOfCharacters';
 
 describe('NumberOfCharacters', () => {
 

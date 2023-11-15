@@ -1,5 +1,5 @@
 import { render, screen } from '@testing-library/react';
-import { CharactersList } from './CharactersList';
+import { CharactersList } from '../compenents/CharactersList';
 import { BrowserRouter } from 'react-router-dom'
 
 

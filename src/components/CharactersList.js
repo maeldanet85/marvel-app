@@ -15,3 +15,5 @@ export function CharactersList({ characters = [] }) {
         </ul>
     );
 }
+
+//oublie d'autorisations au prof

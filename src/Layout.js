@@ -1,8 +1,11 @@
 import React from 'react';
 import { Outlet } from "react-router";
 import { NavLink } from "react-router-dom";
+import packageJson from '../package.json';
 
 const Layout = () => {
+    const version = packageJson.version;
+
     return (
         <>
             <header>

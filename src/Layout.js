@@ -18,7 +18,7 @@ const Layout = () => {
                 <Outlet />
             </main>
             <footer>
-                <p>Marvel App - {version}</p>
+                <p>Marvel App - 1.5.0</p>
             </footer>
         </>
     );

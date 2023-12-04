@@ -84,3 +84,5 @@ describe('CharactersList', () => {
     });
 
 });
+
+//oublie d'autorisations au prof
